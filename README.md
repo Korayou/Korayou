@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>[![](https://komarev.com/ghpvc/?username=Korayou&color=blueviolet&style=for-the-badge){text-align: right}]</style>
+<style>[![](https://komarev.com/ghpvc/?username=Korayou&color=blueviolet&style=for-the-badge){text-align: right}]()</style>
 - 🔭 I’m currently working on **games** for [Seed by Seed](https://seedbyseed.studio/)
 - 🌱 I’m currently preparing an **engineering degree in computer and digital media sciences** at [Le Cnam](https://www.cnam-nouvelle-aquitaine.fr/page-site,informatique-et-numerique-ingenieur-informatique-et-multimedia,78)
 - 💬 Ask me about **crochet** (yes, nothing to do with computers)
