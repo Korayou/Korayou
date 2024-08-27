@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **games** for [Seed by Seed](https://github.com/SeedBySeedStudio)
+- 🔭 I’m currently working on **games** for [Seed by Seed](https://seedbyseed.studio/)
 - 🌱 I’m currently preparing an **engineering degree in computer and digital media sciences** at [Le Cnam](https://www.cnam-nouvelle-aquitaine.fr/page-site,informatique-et-numerique-ingenieur-informatique-et-multimedia,78)
 - 💬 Ask me about **crochet** (yes, nothing to do with computers)
 - 📫 How to reach me:\
