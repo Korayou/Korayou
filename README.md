@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 #### Learning
 [![Learning](https://skillicons.dev/icons?i=godot,rider,blender)]()
 
+![languages](https://github.com/Korayou/github-stats-transparent/blob/output/generated/languages.svg)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--[![Top Langs](https://github-readme-stats-two-xi-53.vercel.app/api/top-langs/?username=Korayou&layout=compact)](https://github.com/Korayou/github-readme-stats)
