@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: loving brussels sprouts
 - 🍀 My not only programming portfolio:\
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAGAPZtIPl4/lRmoQvsAsg6QqP3jbRyQCg/edit?utm_content=DAGAPZtIPl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-![](https://raw.githubusercontent.com/Korayou/github-stats-transparent/output/generated/languages.svg)
