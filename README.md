@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there !
 
 <!--
 **Korayou/Korayou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=Korayou&color=blueviolet&style=for-the-badge)
+<!--![](https://komarev.com/ghpvc/?username=Korayou&color=blueviolet&style=for-the-badge)-->
+
 - 🔭 I’m currently working on **games** for [Seed by Seed](https://seedbyseed.studio/)
 - 🌱 I’m currently preparing an **engineering degree in computer and digital media sciences** at [Le Cnam](https://www.cnam-nouvelle-aquitaine.fr/page-site,informatique-et-numerique-ingenieur-informatique-et-multimedia,78)
 - 💬 Ask me about **crochet** (yes, nothing to do with computers)
@@ -24,5 +25,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: loving brussels sprouts
 - 🍀 My not only programming portfolio:\
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAGAPZtIPl4/lRmoQvsAsg6QqP3jbRyQCg/edit?utm_content=DAGAPZtIPl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,py,qt,java,androidstudio,arduino,cpp,c,docker,mysql,js,jquery,html,css,bootstrap,php,powershell,bash,regex,md,visualstudio,vscode,vim)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=godot,rider,blender)](https://skillicons.dev)
 <!--[![Top Langs](https://github-readme-stats-two-xi-53.vercel.app/api/top-langs/?username=Korayou&layout=compact)](https://github.com/Korayou/github-readme-stats)
 ![Korayou's GitHub stats](https://github-readme-stats-two-xi-53.vercel.app/api?username=Korayou&show_icons=true&theme=tokyonight&hide=stars)-->
