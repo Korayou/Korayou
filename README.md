@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAGAPZtIPl4/lRmoQvsAsg6QqP3jbRyQCg/edit?utm_content=DAGAPZtIPl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,py,qt,java,androidstudio,arduino,cpp,c,docker,js,jquery,html,css,bootstrap,php,powershell,bash,visualstudio,vscode)](https://skillicons.dev)
-Learning: [![Learning](https://skillicons.dev/icons?i=godot,rider,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,py,qt,java,androidstudio,arduino,cpp,c,docker,js,jquery,html,css,bootstrap,php,powershell,bash,visualstudio,vscode)]()\
+Learning: [![Learning](https://skillicons.dev/icons?i=godot,rider,blender)]()
 <!--[![Top Langs](https://github-readme-stats-two-xi-53.vercel.app/api/top-langs/?username=Korayou&layout=compact)](https://github.com/Korayou/github-readme-stats)
 ![Korayou's GitHub stats](https://github-readme-stats-two-xi-53.vercel.app/api?username=Korayou&show_icons=true&theme=tokyonight&hide=stars)-->
