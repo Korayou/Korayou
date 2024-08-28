@@ -30,5 +30,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,py,qt,java,androidstudio,arduino,cpp,c,docker,js,jquery,html,css,bootstrap,php,powershell,bash,visualstudio,vscode)]()
 #### Learning
 [![Learning](https://skillicons.dev/icons?i=godot,rider,blender)]()
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--[![Top Langs](https://github-readme-stats-two-xi-53.vercel.app/api/top-langs/?username=Korayou&layout=compact)](https://github.com/Korayou/github-readme-stats)
 ![Korayou's GitHub stats](https://github-readme-stats-two-xi-53.vercel.app/api?username=Korayou&show_icons=true&theme=tokyonight&hide=stars)-->
