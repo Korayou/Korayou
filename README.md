@@ -1,4 +1,4 @@
-## Hi there !
+![Header](https://github.com/Korayou/Korayou/blob/main/github-header-image.png)
 
 <!--
 **Korayou/Korayou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
