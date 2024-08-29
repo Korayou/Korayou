@@ -7,7 +7,7 @@ I'm Kayyissa, a developper from France
 - 💬 Ask me about **crochet** 🧶 (yes, nothing to do with computers)
 - ✨ Check my artistic [portfolio](https://www.canva.com/design/DAGAPZtIPl4/lRmoQvsAsg6QqP3jbRyQCg/edit?utm_content=DAGAPZtIPl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 📫 How to reach me:\
-[![Mail.Ru Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](mailto:kayyissa@haissous.name)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayyissa-ha%C3%AFssous-072b08237/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/519650350689681418)[![Mail.Ru Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](mailto:kayyissa@haissous.name)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayyissa-ha%C3%AFssous-072b08237/)
 
 ## Languages and Tools
 ### Advanced
@@ -23,6 +23,8 @@ I'm Kayyissa, a developper from France
 ### Languages
 - 🇫🇷 French (Native)
 - 🇺🇸 English (C1 - Bilingual - 940 on my last TOEIC)
+- 🇩🇪 German (B1 - Strong basis)
+- 🇯🇵 Japanese (A1 - Beginner)
 ### Soft Skills
 - Strong communication skills for presentations and interpersonal communication (active listening, respect, empathy...)
 - Familiar with Microsoft 365, Libre Office and Google Workspace
