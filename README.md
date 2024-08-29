@@ -5,7 +5,7 @@ I'm Kayyissa, a developper from France
 - 🔭 I’m currently working on **video games** for [Seed by Seed](https://seedbyseed.studio/)
 - 🌱 I’m currently preparing an **engineering degree in computer and digital media sciences** at [Cnam-Enjmin](https://www.cnam-nouvelle-aquitaine.fr/page-site,informatique-et-numerique-ingenieur-informatique-et-multimedia,78)
 - 💬 Ask me about **crochet** 🧶 (yes, nothing to do with computers)
-- ✨ My artistic [portfolio](https://www.canva.com/design/DAGAPZtIPl4/lRmoQvsAsg6QqP3jbRyQCg/edit?utm_content=DAGAPZtIPl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- ✨ Check my artistic [portfolio](https://www.canva.com/design/DAGAPZtIPl4/lRmoQvsAsg6QqP3jbRyQCg/edit?utm_content=DAGAPZtIPl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 📫 How to reach me:\
 [![Mail.Ru Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](mailto:kayyissa@haissous.name)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayyissa-ha%C3%AFssous-072b08237/)
 
