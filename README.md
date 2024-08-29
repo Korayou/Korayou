@@ -35,6 +35,7 @@ I'm Kayyissa, a developper from France
 - 🧶 Crochet
 - 🖌️ Painting
 - 🏐 VolleyBall
+- 🏍️ Motorcycle
 - 🎮 Video and board games
 - 🎵 Listening to music and going to the cinema
 - 💻 Programming to make life easier and funnier 
