@@ -11,11 +11,11 @@ I'm Kayyissa, a developper from France
 
 ## Languages and Tools
 ### Advanced
-[![Advanced](https://skillicons.dev/icons?i=unity,cs,py,java)]()
+[![Advanced](https://skillicons.dev/icons?i=unity,cs,py,java)]
 ### Intermediate
-[![Intermediate](https://skillicons.dev/icons?i=androidstudio,arduino,cpp,c,docker,js,jquery,html,css,bootstrap,php,powershell,bash,visualstudio,vscode,figma)]()
+[![Intermediate](https://skillicons.dev/icons?i=androidstudio,arduino,cpp,c,docker,js,jquery,html,css,bootstrap,php,powershell,visualstudio,vscode,figma)]
 ### Novice
-[![Novice](https://skillicons.dev/icons?i=godot,rider,blender,qt)]()
+[![Novice](https://skillicons.dev/icons?i=godot,rider,blender,qt)]
 ### GitHub Stats
 ![overview](https://github.com/Korayou/github-stats-transparent/blob/output/generated/overview.svg)![languages](https://github.com/Korayou/github-stats-transparent/blob/output/generated/languages.svg)
 
@@ -24,7 +24,7 @@ I'm Kayyissa, a developper from France
 - 🇫🇷 French (Native)
 - 🇺🇸 English (C1 - Bilingual - 940 on my last TOEIC)
 ### Soft Skills
-- Strong communication skills for presentations and interpersonal communication (active listening, respect, empathy, giving and receiving feedback...)
+- Strong communication skills for presentations and interpersonal communication (active listening, respect, empathy...)
 - Familiar with Microsoft 365, Libre Office and Google Workspace
 - Open-minded and very curious
 - Pursuing meaning in everything I do, strongly appreciate things done well
