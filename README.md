@@ -1,6 +1,6 @@
 <!--![Header](https://github.com/Korayou/Korayou/blob/main/github-header.png)-->
 <!--![](https://komarev.com/ghpvc/?username=Korayou&color=blueviolet&style=for-the-badge)-->
-# Hey there !
+# Hey there!
 I'm Kayyissa, a developper from France
 - 🔭 I’m currently working on **video games** for [Seed by Seed](https://seedbyseed.studio/) (take a look at [our last game](https://store.steampowered.com/app/1866320/Baladins/)!)
 - 🌱 I’m currently preparing an **engineering degree in computer and digital media sciences** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/)
