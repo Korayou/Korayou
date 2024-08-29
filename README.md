@@ -10,10 +10,8 @@ I'm Kayyissa, a developper from France
 [![Mail.Ru Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](mailto:kayyissa@haissous.name)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayyissa-ha%C3%AFssous-072b08237/)
 
 ## Languages and Tools
-### Advanced
-[![Advanced](https://skillicons.dev/icons?i=unity,cs,py)]()
 ### Intermediate
-[![Intermediate](https://skillicons.dev/icons?i=qt,java,androidstudio,arduino,cpp,c,docker,js,jquery,html,css,bootstrap,php,powershell,bash,visualstudio,vscode)]()
+[![Intermediate](https://skillicons.dev/icons?i=unity,cs,py,java,androidstudio,arduino,cpp,c,docker,js,jquery,html,css,bootstrap,php,powershell,bash,visualstudio,vscode)]()
 ### Novice
 [![Novice](https://skillicons.dev/icons?i=godot,rider,blender,qt)]()
 ### Stats
