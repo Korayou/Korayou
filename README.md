@@ -11,11 +11,11 @@ I'm Kayyissa, a developper from France
 
 ## Languages and Tools
 ### Advanced
-[![Advanced](https://skillicons.dev/icons?i=unity,cs,py,java)]
+![Advanced](https://skillicons.dev/icons?i=unity,cs,py,java)
 ### Intermediate
-[![Intermediate](https://skillicons.dev/icons?i=androidstudio,arduino,cpp,c,docker,js,jquery,html,css,bootstrap,php,powershell,visualstudio,vscode,figma)]
+![Intermediate](https://skillicons.dev/icons?i=androidstudio,arduino,cpp,c,docker,js,jquery,html,css,bootstrap,php,powershell,visualstudio,vscode,figma)
 ### Novice
-[![Novice](https://skillicons.dev/icons?i=godot,rider,blender,qt)]
+![Novice](https://skillicons.dev/icons?i=godot,rider,blender,qt)
 ### GitHub Stats
 ![overview](https://github.com/Korayou/github-stats-transparent/blob/output/generated/overview.svg)![languages](https://github.com/Korayou/github-stats-transparent/blob/output/generated/languages.svg)
 
