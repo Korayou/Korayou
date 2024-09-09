@@ -3,7 +3,7 @@
 # Hey there!
 I'm Kayyissa, a developper from France
 - 🔭 I’m currently working on **video games** for [Seed by Seed](https://seedbyseed.studio/) (take a look at [our last game](https://store.steampowered.com/app/1866320/Baladins/)!)
-- 🌱 I’m currently preparing an **engineering degree in computer and digital media sciences** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/)
+- 🌱 I’m currently preparing an **Master degree in computer and digital media sciences** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/)
 - 💬 Ask me about **crochet** 🧶 (yes, nothing to do with computers)
 - ✨ Check my artistic [portfolio](https://www.canva.com/design/DAGAPZtIPl4/lRmoQvsAsg6QqP3jbRyQCg/edit?utm_content=DAGAPZtIPl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 📫 How to reach me:\
@@ -22,8 +22,8 @@ I'm Kayyissa, a developper from France
 ## Other skills
 ### Languages
 - 🇫🇷 French (Native)
-- 🇺🇸 English (C1 - Bilingual - 940 on my last TOEIC)
-- 🇩🇪 German (B1 - Strong basis)
+- 🇺🇸 English (C1 - Proficient - 940 on my last TOEIC)
+- 🇩🇪 German (B1 - Intermediate)
 - 🇯🇵 Japanese (A1 - Beginner)
 ### Soft Skills
 - Strong communication skills for presentations and interpersonal communication (active listening, respect, empathy...)
