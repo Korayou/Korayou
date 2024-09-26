@@ -3,9 +3,9 @@
 # Hey there!
 I'm Kayyissa, a developper from France
 - 🔭 I’m currently working on **video games** for [Seed by Seed](https://seedbyseed.studio/) (take a look at [our last game](https://store.steampowered.com/app/1866320/Baladins/)!)
-- 🌱 I’m currently preparing an **Master degree in computer and digital media sciences** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/)
+- 🌱 I’m currently preparing an **Master degree in Computer and Digital media Sciences** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/)
 - 💬 Ask me about **crochet** 🧶 (yes, nothing to do with computers)
-- ✨ Check my artistic [portfolio](https://www.canva.com/design/DAGAPZtIPl4/lRmoQvsAsg6QqP3jbRyQCg/edit?utm_content=DAGAPZtIPl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- ✨ Check my [portfolio](https://www.canva.com/design/DAGAPZtIPl4/lRmoQvsAsg6QqP3jbRyQCg/edit?utm_content=DAGAPZtIPl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 📫 How to reach me:\
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/519650350689681418)[![Mail.Ru Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](mailto:kayyissa@haissous.name)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayyissa-ha%C3%AFssous-072b08237/)
 
@@ -24,20 +24,20 @@ I'm Kayyissa, a developper from France
 - 🇫🇷 French (Native)
 - 🇺🇸 English (C1 - Proficient - 940 on my last TOEIC)
 - 🇩🇪 German (B1 - Intermediate)
+- 🇫🇮 Finnish (A1 - Beginner)
 - 🇯🇵 Japanese (A1 - Beginner)
 ### Soft Skills
-- Strong communication skills for presentations and interpersonal communication (active listening, respect, empathy...)
+- Strong communication skills for presentations and interpersonal communication (active listening, respect, empathy, confidence...)
 - Familiar with Microsoft 365, Libre Office and Google Workspace
-- Open-minded and very curious
-- Pursuing meaning in everything I do, strongly appreciate things done well
+- Creative, curious, autonomous, organized, cooperative, patient
 
 ## Things I like
 - 🧶 Crochet
 - 🖌️ Painting
+- 🧱 Ceramic
 - 🏐 VolleyBall
+- 🏊‍♀️ Swimming
 - 🏍️ Motorcycle
-- 🎮 Video and board games
-- 🎵 Listening to music and going to the cinema
 - 💻 Programming to make life easier and funnier 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
