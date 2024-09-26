@@ -5,7 +5,7 @@ I'm Kayyissa, a developper from France
 - 🔭 I’m currently working on **video games** for [Seed by Seed](https://seedbyseed.studio/) (take a look at [our last game](https://store.steampowered.com/app/1866320/Baladins/)!)
 - 🌱 I’m currently preparing an **Master degree in Computer and Digital media Sciences** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/)
 - 💬 Ask me about **crochet** 🧶 (yes, nothing to do with computers)
-- ✨ Check my [portfolio](https://www.canva.com/design/DAGAPZtIPl4/lRmoQvsAsg6QqP3jbRyQCg/edit?utm_content=DAGAPZtIPl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- ✨ Check my [portfolio](https://www.canva.com/design/DAGK8rE33hA/fMLRSpZoo0q6p8xGoYCrsQ/edit)
 - 📫 How to reach me:\
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/519650350689681418)[![Mail.Ru Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](mailto:kayyissa@haissous.name)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayyissa-ha%C3%AFssous-072b08237/)
 
