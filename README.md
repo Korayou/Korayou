@@ -3,7 +3,7 @@
 # Hey there!
 I'm Kayyissa, a developper from France
 - 🔭 I’m currently working on **video games** for [Seed by Seed](https://seedbyseed.studio/) (take a look at [our last game](https://store.steampowered.com/app/1866320/Baladins/)!)
-- 🌱 I’m currently preparing an **Master degree in Computer and Digital media Sciences** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/)
+- 🌱 I’m currently preparing a **Master degree in Computer and Digital media Sciences** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/)
 - 💬 Ask me about **crochet** 🧶 (yes, nothing to do with computers)
 - ✨ Check my [portfolio](https://www.canva.com/design/DAGK8rE33hA/fMLRSpZoo0q6p8xGoYCrsQ/edit)
 - 📫 How to reach me:\
