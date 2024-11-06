@@ -18,7 +18,7 @@ I'm Kayyissa, a developper from France
 ![Novice](https://skillicons.dev/icons?i=godot,blender,qt)
 ### GitHub Stats
 ![overview](https://github.com/Korayou/github-stats-transparent/blob/output/generated/overview.svg)![languages](https://github.com/Korayou/github-stats-transparent/blob/output/generated/languages.svg)
-
+<!--
 ## Other skills
 ### Languages
 - 🇫🇷 French (Native)
@@ -38,7 +38,7 @@ I'm Kayyissa, a developper from France
 - 🏐 VolleyBall
 - 🏊‍♀️ Swimming
 - 🏍️ Motorcycle
-- 💻 Programming to make life easier and funnier 
+- 💻 Programming to make life easier and funnier -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--[![Top Langs](https://github-readme-stats-two-xi-53.vercel.app/api/top-langs/?username=Korayou&layout=compact)](https://github.com/Korayou/github-readme-stats)
