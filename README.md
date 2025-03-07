@@ -15,7 +15,7 @@ I'm Kayyissa, a developer from France
 ### Intermediate
 ![Intermediate](https://skillicons.dev/icons?i=androidstudio,arduino,cpp,c,js,jquery,html,css,bootstrap,php,powershell,visualstudio,vscode,figma)
 ### Novice
-![Novice](https://skillicons.dev/icons?i=godot,blender,qt)
+![Novice](https://skillicons.dev/icons?i=godot,blender)
 ### GitHub Stats
 ![overview](https://github.com/Korayou/github-stats-transparent/blob/output/generated/overview.svg)![languages](https://github.com/Korayou/github-stats-transparent/blob/output/generated/languages.svg)
 <!--
