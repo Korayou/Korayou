@@ -2,7 +2,7 @@
 <!--![](https://komarev.com/ghpvc/?username=Korayou&color=blueviolet&style=for-the-badge)-->
 # Hey there!
 I'm Kayyissa, a developer from France
-- 🔭 I’m currently working on **video games** for [Seed by Seed](https://seedbyseed.studio/) (take a look at [our latest game](https://store.steampowered.com/app/1866320/Baladins/)!)
+- 🔭 I’m currently working on **video games** for [Seed by Seed](https://seedbyseed.studio/) (take a look at [our latest game](https://store.steampowered.com/app/2946390/Jump_the_Track/)!)
 - 🌱 I’m currently preparing a **Master degree in Computer and Digital media Sciences** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/)
 - 💬 Ask me about **crochet** 🧶 (yes, nothing to do with computers)
 - ✨ Check my [portfolio](https://www.canva.com/design/DAGK8rE33hA/fMLRSpZoo0q6p8xGoYCrsQ/edit)
