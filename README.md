@@ -10,12 +10,8 @@ I'm Kayyissa, a developer from France
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/519650350689681418)[![Mail.Ru Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](mailto:kayyissa@haissous.name)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayyissa-ha%C3%AFssous-072b08237/)
 
 ## Languages and Tools
-### Advanced
-![Advanced](https://skillicons.dev/icons?i=unity,cs,py,java)
-### Intermediate
-![Intermediate](https://skillicons.dev/icons?i=androidstudio,arduino,cpp,c,js,jquery,html,css,bootstrap,php,powershell,visualstudio,vscode,figma)
-### Novice
-![Novice](https://skillicons.dev/icons?i=godot,blender)
+![Advanced](https://skillicons.dev/icons?i=unity,cs,unreal,py,java,git,cpp,js,androidstudio,arduino,c,godot)
+
 ### GitHub Stats
 ![overview](https://github.com/Korayou/github-stats-transparent/blob/output/generated/overview.svg)![languages](https://github.com/Korayou/github-stats-transparent/blob/output/generated/languages.svg)
 <!--
